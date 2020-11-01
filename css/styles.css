@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+
+.search{
+    display: block;
+    margin: 20px auto;
+    width:  25%;
+    border: none;
+    padding: 10px;
+    box-shadow: 0 0 5px lightgray;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 200px 200px 200px 200px;
+    gap: 20px ;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+}
