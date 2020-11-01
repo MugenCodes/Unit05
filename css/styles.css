@@ -11,7 +11,7 @@
     box-shadow: 0 0 5px lightgray;
 }
 
-.container{
+.gallery{
     display: grid;
     grid-template-columns: 200px 200px 200px 200px;
     gap: 20px ;
