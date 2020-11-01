@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 
-.search{
+#search{
     display: block;
     margin: 20px auto;
     width:  25%;
