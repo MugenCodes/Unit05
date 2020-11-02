@@ -7,6 +7,8 @@
     margin: 20px auto;
     width:  30%;
     border: none;
+    border-color: lightgray;
+    border-radius: 5px;
     padding: 10px;
     box-shadow: 0 0 5px lightgray;
 }
