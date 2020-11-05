@@ -17,12 +17,16 @@
     display: grid;
     width: 95%;
     max-width: 1000px;
-    grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
-    gap: 20px;
+    grid-template-columns: repeat(auto-fit, 190px);
+    gap: 30px;
+    list-style-type: none;
 }
+
+
 
 .center{
     display: flex;
     justify-content: center;
     align-items: center;
 }
+
